@@ -1,3 +1,5 @@
 # toy_ds_project
-"project creation data:" 
+project creation data: 
 October 3, 2023 
+author:
+Justin Cho
